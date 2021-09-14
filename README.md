@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/hyahiaoui/hyahiaoui/main/github_banner.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Houssame, a senior software engineer 👨‍💻, a proud dad and loving husband</div>  
+### <div align="left">Hi 👋. I'm Houssame, a senior software engineer 👨‍💻, a proud dad and loving husband 👪</div>  
   
 
 - ⌨️ I’m currently working for [Alma](https://getalma.eu)  
