@@ -1,4 +1,4 @@
-## <div align="left">Hi 👋. I'm Houssame, a senior software engineer 👨‍💻, a proud dad and loving husband 👪</div>
+## <div align="left">Hi 👋, I'm Houssame</div>
 
 - ⌨️ I’m currently working for [Alma](https://getalma.eu)
 
