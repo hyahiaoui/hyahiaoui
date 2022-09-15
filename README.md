@@ -1,6 +1,6 @@
 ## <div align="left">Hi 👋, I'm Houssame</div>
 
-- ⌨️ I’m currently working for [Alma](https://getalma.eu)
+- ⌨️ I’m currently working for [Alma](https://github.com/alma)
 
 - 🌱 I’m currently learning functional programming and Domain Driven Design
 
