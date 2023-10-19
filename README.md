@@ -2,9 +2,12 @@
 
 ## Engineering Manager
 
-As an engineer and a manager, I thrive on creating delightful experiences for developers. I currently lead a talented team building intuitive tools, slick documentation, and smooth processes to make our development platform irresistible. I give voice to our developers, championing solutions based on their needs.
+As an engineer and a manager, I thrive on creating delightful experiences for developers.
 
-Though I love leading, I also love imagining and building features that helps the Engineering team reach its full potential while building the company’s product. My team’s mission is to make it easier for developers to deliver great products. So, I rejoice in building the platform that turns developers’ big ideas into reality!
+I currently lead a talented team building intuitive tools, slick documentation, and smooth processes to make our development platform irresistible. I give voice to our developers, championing solutions based on their needs.
+Though I love leading, I also love imagining and building features that helps the Engineering team reach its full potential while building the company’s product.
+
+My team’s mission is to make it easier for developers to deliver great products. So, I rejoice in building the platform that turns developers’ big ideas into reality!
 
 * 🌍  I'm based in Paris, France
 * 🚀  I'm currently working on [Alma](http://almapay.com)
