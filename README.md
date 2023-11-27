@@ -9,7 +9,7 @@ Though I love leading, I also love imagining and building features that helps th
 
 My team’s mission is to make it easier for developers to deliver great products. So, I rejoice in building the platform that turns developers’ big ideas into reality!
 
-* 🌍  I'm based in Paris, France
+* 🌍  I'm based in Montpellier, France
 * 🚀  I'm currently working on [Alma](http://almapay.com)
 
 ### Skills
